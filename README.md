@@ -1,6 +1,10 @@
 # Data-Driven_Insights_for_Donor_Selection
 Data-Driven Insights for Donor Selection: A Machine Learning Approach
 
+![larm-rmah-AEaTUnvneik-unsplash](https://github.com/Waltberry/Data-Driven_Insights_for_Donor_Selection/assets/63509339/b2a4ea3c-ca4b-41e7-b559-0ccc6981160e) credit to Photo by <a href="https://unsplash.com/@larm?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Larm Rmah</a> on <a href="https://unsplash.com/photos/AEaTUnvneik?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  
+
+
 ## Data-Driven Insights for Donor Selection: A Machine Learning Approach
 
 You have been hired to deliver actionable insights to support your client, who is a national charitable organization. The client seeks to use the results of a previous postcard mail solicitation for donations to improve outcomes in the next campaign. You want to determine which individuals in their mailing database have characteristics similar to those of your most profitable donors. By soliciting only these people, your client can spend less money on the solicitation effort and more money on charitable concerns.
